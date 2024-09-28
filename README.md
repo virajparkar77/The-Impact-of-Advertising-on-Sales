@@ -1,1 +1,2 @@
 # The-Impact-of-Advertising-on-Sales
+This business analysis report provides an in-depth analysis of the impact of TV advertising expenditure on sales revenue. The analysis uses a simple linear regression model, with TV advertising as the sole predictor variable and sales revenue as the dependent variable. The dataset includes data for 200 advertising campaigns across three mediums: TV, Radio, and Newspaper. However, this analysis focuses solely on the effect of TV advertising on sales performance
